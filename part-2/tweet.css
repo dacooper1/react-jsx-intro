@@ -1,0 +1,26 @@
+.tweet {
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 20px 20%;
+    padding: 20px;
+    padding-top: 5px;
+  }
+
+.user {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.name {
+    margin-bottom: 5px;
+}
+.date {
+  color:forestgreen;
+  display: inline-block;
+  padding-bottom: 0px;
+  margin-top: 0px;
+}
+
+
+
+  
